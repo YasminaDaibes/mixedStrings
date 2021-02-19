@@ -1,5 +1,5 @@
 # mixedStrings
-recursion function that returns mixed string alternately.
+recursion function that returns mixed strings alternately.
 
 For call strings("abc", "xyz"), result is "axbycz"
 
